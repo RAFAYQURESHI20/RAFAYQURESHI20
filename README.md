@@ -1,78 +1,97 @@
 <h1 align="center">Hi 👋, I'm RAFAYQURESHI20</h1>
-<h3 align="center">AI & Machine Learning Engineer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate AI Engineer & LangChain/Agentic AI Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafayqureshi20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rafayqureshi20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafayqureshi20&theme=onedark&row=2&column=3" alt="Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rafayqureshi20&theme=onedark" alt="Trophies" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-<p align="center">
-  <em>Passionate about building intelligent systems, AI agents, chatbots, and automation workflows!</em>
-</p>
 
-- 🌱 Exploring **Artificial Intelligence, ML, and Agentic AI**  
-- 🤝 Open to collaborate on **AI, NLP, LangChain, and Automation Projects**  
-- 💬 Ask me about **AI Chatbots, LangGraph workflows, n8n automation, and PDF QA bots**  
-- ⚡ Fun fact: I create **tech content on Instagram**  
+- 🌱 I’m building **AI agents, LangChain apps, and chatbots** using open-source LLMs  
+- 🤝 I collaborate on **RAG projects, AI tutors, and intelligent bots**  
+- 👨‍💻 My work: [GitHub](https://github.com/RAFAYQURESHI20)  
+- 💬 Ask me about **LangChain, Agentic AI, GPT-2, TinyLlama, n8n, or AI workflow automation**  
+- ⚡ Fun fact: I create **tech content on Instagram**!
 
 ---
 
 ### 🧠 AI Skills & Projects
 
-| Skill | Proficiency |
-|-------|------------|
-| AI Chatbots | <img src="https://progress-bar.dev/95/?scale=100&width=150&suffix=%25" /> |
-| AI Agents | <img src="https://progress-bar.dev/90/?scale=100&width=150&suffix=%25" /> |
-| LangChain & LangGraph | <img src="https://progress-bar.dev/85/?scale=100&width=150&suffix=%25" /> |
-| RAG Applications | <img src="https://progress-bar.dev/90/?scale=100&width=150&suffix=%25" /> |
-| n8n Automation | <img src="https://progress-bar.dev/80/?scale=100&width=150&suffix=%25" /> |
-| Python & ML Tools | <img src="https://progress-bar.dev/95/?scale=100&width=150&suffix=%25" /> |
+- ✅ **LangChain RAG Applications** – PDF QA, knowledge retrieval, and chatbots  
+- ✅ **Agentic AI Agents** – Multi-step reasoning with memory and tool integration  
+- ✅ **AI Tutors & Chatbots** – Using open-source LLMs like GPT-2, TinyLlama  
+- ✅ **Automation & Integration** – n8n workflows, AI-powered pipelines  
+- ✅ **Real-time Systems** – GPS tracking, medicine recommendation bots, PDF QA apps  
 
-<p align="center">
-  <img src="https://c.tenor.com/Lz8yHq1Y5aMAAAAC/ai-robot.gif" width="300" alt="AI Animation"/>
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/abdulrafay" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/rafay_qureshi19" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:batch22.ai.010@gmail.com">
+    <img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png" alt="Email" height="30" width="40"/>
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tools & Technologies
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafayqureshi20&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafayqureshi20&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafayqureshi20&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafayqureshi20&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 💡 Featured Projects (Animated Style)
-<div align="center">
-  <img src="https://c.tenor.com/6x3eN10mhPwAAAAC/code-coding.gif" width="250" alt="Projects Animation"/>
-</div>
+### 💡 Featured Projects
 
-- AI Tutor Bot – Multi-step reasoning **AI Agent**  
-- LangChain PDF QA – **RAG Chatbot** for documents  
-- LangGraph Workflow – Structured **knowledge graphs**  
-- n8n AI Automation – Automating AI workflows & tasks  
-- Real-time GPS Tracker – High-frequency GPS logging & visualization  
+- [AI Tutor Chatbot](https://github.com/RAFAYQURESHI20/AI-Tutor-Chatbot) – LangChain + GPT-2  
+- [PDF QA RAG App](https://github.com/RAFAYQURESHI20/PDF-QA-RAG) – Upload & query PDFs  
+- [Real-time GPS Tracker](https://github.com/RAFAYQURESHI20/GPS-Tracker) – Python + Arduino  
+- [Medicine Recommendation Bot](https://github.com/RAFAYQURESHI20/Medicine-Bot) – NLP & ML-based  
 
 ---
 
-✨ Let's build **next-gen AI solutions** together! 🚀
+### 🔗 AI & Automation Tools
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/langchain.png" width="40" height="40" title="LangChain"/>
+  <img src="https://img.icons8.com/color/48/000000/n8n.png" width="40" height="40" title="n8n Automation"/>
+  <img src="https://img.icons8.com/color/48/000000/openai.png" width="40" height="40" title="OpenAI APIs"/>
+  <img src="https://img.icons8.com/color/48/000000/chatbot.png" width="40" height="40" title="AI Chatbots"/>
+</p>
+
+---
+
+<p align="center">“Building intelligent agents to solve real-world problems with AI” 🤖</p>
