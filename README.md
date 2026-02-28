@@ -1,75 +1,78 @@
 <h1 align="center">Hi 👋, I'm RAFAYQURESHI20</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Pakistan 🇵🇰</h3>
+<h3 align="center">AI & Machine Learning Engineer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafayqureshi20&label=Profile%20views&color=0e75b6&style=flat" alt="rafayqureshi20" />
+  <img src="https://komarev.com/ghpvc/?username=rafayqureshi20&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rafayqureshi20&theme=onedark" alt="rafayqureshi20 trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rafayqureshi20&theme=onedark&row=2&column=3" alt="Trophies"/>
 </p>
 
 ---
 
 ### 🚀 About Me
+<p align="center">
+  <em>Passionate about building intelligent systems, AI agents, chatbots, and automation workflows!</em>
+</p>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
-- 🤝 I’m looking to collaborate on **Machine Learning & AI Projects**
-- 👨‍💻 All of my work is available at: [github.com/RAFAYQURESHI20](https://github.com/RAFAYQURESHI20)
-- 💬 Ask me about **Machine Learning**, **NLP**, **LangChain**, or **Agentic AI**
-- 📫 Reach me at **batch22.ai.010@gmail.com**
-- ⚡ Fun fact: I also create tech content on Instagram!
+- 🌱 Exploring **Artificial Intelligence, ML, and Agentic AI**  
+- 🤝 Open to collaborate on **AI, NLP, LangChain, and Automation Projects**  
+- 💬 Ask me about **AI Chatbots, LangGraph workflows, n8n automation, and PDF QA bots**  
+- ⚡ Fun fact: I create **tech content on Instagram**  
 
 ---
 
 ### 🧠 AI Skills & Projects
 
-- ✅ **LangChain** projects with Retrieval-Augmented Generation (RAG)
-- ✅ Built **AI tutors & bots** using open-source LLMs like GPT-2, TinyLlama
-- ✅ Hands-on experience with **Agentic AI** using memory, tools, and multi-step reasoning
-- ✅ Developed real-time **GPS tracking systems**, **medicine recommendation bots**, and **PDF QA RAG apps**
+| Skill | Proficiency |
+|-------|------------|
+| AI Chatbots | <img src="https://progress-bar.dev/95/?scale=100&width=150&suffix=%25" /> |
+| AI Agents | <img src="https://progress-bar.dev/90/?scale=100&width=150&suffix=%25" /> |
+| LangChain & LangGraph | <img src="https://progress-bar.dev/85/?scale=100&width=150&suffix=%25" /> |
+| RAG Applications | <img src="https://progress-bar.dev/90/?scale=100&width=150&suffix=%25" /> |
+| n8n Automation | <img src="https://progress-bar.dev/80/?scale=100&width=150&suffix=%25" /> |
+| Python & ML Tools | <img src="https://progress-bar.dev/95/?scale=100&width=150&suffix=%25" /> |
 
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/abdul rafay" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rafay_qureshi19" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://c.tenor.com/Lz8yHq1Y5aMAAAAC/ai-robot.gif" width="300" alt="AI Animation"/>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafayqureshi20&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rafayqureshi20&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafayqureshi20&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafayqureshi20&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-Let me know if you want to add badges, featured projects, or links to live demos!
+### 💡 Featured Projects (Animated Style)
+<div align="center">
+  <img src="https://c.tenor.com/6x3eN10mhPwAAAAC/code-coding.gif" width="250" alt="Projects Animation"/>
+</div>
+
+- AI Tutor Bot – Multi-step reasoning **AI Agent**  
+- LangChain PDF QA – **RAG Chatbot** for documents  
+- LangGraph Workflow – Structured **knowledge graphs**  
+- n8n AI Automation – Automating AI workflows & tasks  
+- Real-time GPS Tracker – High-frequency GPS logging & visualization  
+
+---
+
+✨ Let's build **next-gen AI solutions** together! 🚀
